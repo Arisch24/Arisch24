@@ -1,6 +1,4 @@
 # About Me
-
-<p>Contact Me</p>
 <table>
   <tr>
     <td>
