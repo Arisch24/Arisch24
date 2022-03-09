@@ -1,5 +1,5 @@
-# About Me
-<table>
+<h3 align="center">About Me</h3>
+<table align="center">
   <tr>
     <td>
       <a href="https://www.facebook.com/profile.php?id=100009354777133">
@@ -22,9 +22,12 @@
    </tr>
  </table>
 
-[![Arisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=arisch24&show_icons=true&theme=dracula)](https://github.com/arisch24/github-readme-stats)
-<br>
-[![Arisch's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arisch24&theme=noctis_minimus)](https://github.com/arisch24/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arisch24&show_icons=true&theme=dracula">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisch24&theme=noctis_minimus">
+</p>
 
 <!---
 Arisch24/Arisch24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
