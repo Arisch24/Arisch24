@@ -1,9 +1,6 @@
 # About Me
-- 👋 Hi, I’m Arischvaran
-- 👀 I’m interested in upgrading my skills.
-- 💞️ I’m looking to collaborate on any open-source projects as long as I am able to do it.
-- 📫 You can contact me on any of my socials.
 
+<p>Contact Me</p>
 <table>
   <tr>
     <td>
