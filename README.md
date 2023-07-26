@@ -28,12 +28,12 @@
    </tr>
  </table>
 
-<p align="center">
+<span align="">
   <img src="https://github-readme-stats.vercel.app/api?username=arisch24&show_icons=true&theme=dracula">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisch24&theme=noctis_minimus">
-</p>
+</span>
+<span align="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisch24&theme=noctis_minimus&layout=donut">
+</span>
 
 <!---
 Arisch24/Arisch24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
