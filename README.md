@@ -9,13 +9,19 @@
     </td>
     <td>
       <a href="https://www.instagram.com/ar1sch_/">
-        <img src="https://th.bing.com/th/id/R.5e04fd779e7607a47d0bad14976caa90?rik=MYieavaZpaXrMw&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f02%2fNew-Instagram-logo.jpg&ehk=kTNHOU7RNhSBC8VTl4FPXOmyjXgyJlrNtPiZ9qk03fA%3d&risl=&pid=ImgRaw&r=0" width="40">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40">
       </a>
       <br>
     </td>
     <td>
       <a href="https://discord.com/channels/@me">
-         <img src="https://th.bing.com/th/id/OIP.J81kMwAapeNoEOkoyw1N6gHaHa?pid=ImgDet&rs=1" width="40">
+         <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg" width="40">
+      </a>
+      <br>
+    </td>
+    <td>
+      <a href="https://stackoverflow.com/users/16695250/arischvaran">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="40">
       </a>
       <br>
     </td>
