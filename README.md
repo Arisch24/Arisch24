@@ -29,9 +29,6 @@
  </table>
 
 <span align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=arisch24&show_icons=true&theme=dracula">
-</span>
-<span align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisch24&theme=noctis_minimus&layout=donut">
 </span>
 
