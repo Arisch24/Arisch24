@@ -15,7 +15,6 @@ Hi! I'm a full-stack developer. My main focus is creating software that follows 
 <img style="margin-left: 8px;" align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 <img style="margin-left: 8px;" align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 <img style="margin-left: 8px;" align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-<img style="margin-left: 8px;" align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
 <img style="margin-left: 8px;" align="left" alt="WordPress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
 <img style="margin-left: 8px;" align="left" alt="Gulp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg">
 <img style="margin-left: 8px;" align="left" alt="NPM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
