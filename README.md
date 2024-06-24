@@ -2,8 +2,6 @@
 
 Hi! I'm a full-stack developer. My main focus is creating software that follows best practices and scales well. I'm also a digital strategist, helping businesses grow their online presence.
 
----
-
 ## ⚙ Languages and Tools
 
 <div style="display: flex; flex-direction: row; column-gap: 10px;">
@@ -26,10 +24,6 @@ Hi! I'm a full-stack developer. My main focus is creating software that follows 
 <img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
 
-<br>
-
----
-
 <!-- Stats -->
 
 ## 📊 Stats
@@ -40,8 +34,6 @@ Hi! I'm a full-stack developer. My main focus is creating software that follows 
 <a href="https://github.com/Arisch24/">
   <img src="https://github-readme-stats.vercel.app/api?username=arisch24&show_icons=true&theme=radical">
 </a>
-
----
 
 ## 👩‍💻 Follow
 
