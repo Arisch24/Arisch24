@@ -24,6 +24,8 @@ Hi! I'm a full-stack developer. My main focus is creating software that follows 
 <img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
 </div>
 
+<br>
+
 <!-- Stats -->
 
 ## 📊 Stats
