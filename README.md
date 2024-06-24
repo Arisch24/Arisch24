@@ -1,36 +1,51 @@
-<h3 align="center">About Me</h3>
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.facebook.com/profile.php?id=100009354777133">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Facebook_logo_36x36.svg/1200px-Facebook_logo_36x36.svg.png" width="40">
-       </a>
-      <br>
-    </td>
-    <td>
-      <a href="https://www.instagram.com/ar1sch_/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40">
-      </a>
-      <br>
-    </td>
-    <td>
-      <a href="https://discord.com/channels/@me">
-         <img src="https://static.vecteezy.com/system/resources/previews/006/892/625/original/discord-logo-icon-editorial-free-vector.jpg" width="40">
-      </a>
-      <br>
-    </td>
-    <td>
-      <a href="https://stackoverflow.com/users/16695250/arischvaran">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="40">
-      </a>
-      <br>
-    </td>
-   </tr>
- </table>
+# 🙋‍♂️ I'm Arischvaran
 
-<span align="">
+Hi! I'm a full-stack developer. My main focus is creating software that follows best practices and scales well. I'm also a digital strategist, helping businesses grow their online presence.
+
+---
+
+## ⚙ Languages and Tools
+
+<div style="display: flex; flex-direction: row; column-gap: 10px;">
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+<img align="left" alt="SASS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
+<img align="left" alt="Javascript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img align="left" alt="Typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+<img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+<img align="left" alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+<img align="left" alt="WordPress" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
+<img align="left" alt="Gulp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg">
+<img align="left" alt="NPM" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
+<img align="left" alt="GIMP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg">
+<img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+</div>
+
+<br>
+
+---
+
+<!-- Stats -->
+
+## 📊 Stats
+
+<a href="https://github.com/Arisch24/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisch24&theme=noctis_minimus&layout=donut">
-</span>
+</a>
+<a href="https://github.com/Arisch24/">
+  <img src="https://github-readme-stats.vercel.app/api?username=arisch24&show_icons=true&theme=radical">
+</a>
+
+---
+
+## 👩‍💻 Follow
+
+[![Twitter](https://img.shields.io/twitter/follow/arisch_24?color=0E7FC0&logo=x&style=for-the-badge&label=Twitter)](https://twitter.com/Arisch_24)
 
 <!---
 Arisch24/Arisch24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
