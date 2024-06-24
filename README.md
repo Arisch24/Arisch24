@@ -24,6 +24,7 @@ Hi! I'm a full-stack developer. My main focus is creating software that follows 
 
 <br />
 <br />
+<br />
 
 <!-- Stats -->
 
